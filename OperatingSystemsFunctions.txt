@@ -1,1 +1,1 @@
-
+Starting computer up is one function of an operating system. First, the power supply sends a current to the computer. The processor resets itself and find the firmware that contains start-up instructions. The process executes tests, instructions load to the computer's memory, and the operating system in memory takes control of the computer to load system configuration information.
